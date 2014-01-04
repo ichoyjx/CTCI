@@ -92,7 +92,7 @@ int main() {
 
   printList(Head);
 
-  // delete the duplicate nodes
+  // delete the duplicate nodes, 2.1
   deleteDups(Head);
   printList(Head);
 
